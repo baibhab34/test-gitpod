@@ -17,8 +17,6 @@
 
 ***Some Info***
 
-> sudo commands are broked on gitpod by default, enable "Enable Feature Preview" from the settings and restart the workflow
-
 > this template have also the possibility to ssh into the workspace thanks to tmate.io , check their website for further information
 
 ---------------------------
